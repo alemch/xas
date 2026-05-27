@@ -1,5 +1,4 @@
 # XDI/1.0 GSE/1.0
-# Scan-start_time: 2024-06-08T18:07:28
 # Column.1: energy eV
 # Column.2: I0_eh2
 # Column.3: I1_eh2
@@ -26,8 +25,6 @@
 # Mono.name: Si 111
 # Mono.d_spacing: 3.134692
 # Mono.notes: LNT cooled
-# Beamline.name: BM08-LISA
-# Facility.name: ESRF
 # Facility.xray_source: Bending magnet
 # BraggEnergy I0_eh2 I1_eh2 IX_eh2 IR_eh2 c8 c9    fluo01   fluo02    fluo03 fluo04    fluo05   fluo06   fluo07   fluo08   fluo09    fluo10   fluo11    fluo12 fluo13 I0_eh1 I1_eh1 IX_eh1
  10951.516347 248238  99146 444746    0  0  0  517.14137  1201.2177  880.36141    0  971.60693  1518.6957  1148.1207  1110.6273  1461.0234  719.09338  1327.9511  969.05792    0  43584    0 2000027
